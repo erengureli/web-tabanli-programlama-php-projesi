@@ -1,7 +1,7 @@
 # Web Tabanlı Programlama PHP Projesi
 Bu projemde BİM marketleri için temsili CRUD web sitesi tasarladım.
 
-[Sitemin tanıtım videosu linki]()
+[Sitemin Tanıtım Videosunun Linki]()
 
 ### Basitçe içindekiler;
  - **Admin Üye Olma**
@@ -75,3 +75,10 @@ CREATE TABLE product(
    - MYSQL içinde oluşturduğumuz database ismi (benim yukarıda **bim_database** diye bıraktığım isim)
 
  - Bunları da ayarladıktan sonra herhangi bir internet sağlayıcısından **http://localhost/** yazarak bağlanabilirsiniz. (Eğer dışardaki bir server için ayarlıyorsak localhost yerine serverin ipsini girmemiz gerekiyor)
+
+ ## Database'in Yapısı
+
+ ![Database](/sql/database.png)
+
+ ## Credits
+ - 
