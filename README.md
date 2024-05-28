@@ -1,7 +1,7 @@
 # Web Tabanlı Programlama PHP Projesi
 Bu projemde BİM marketleri için temsili CRUD web sitesi tasarladım.
 
-[Sitemin Tanıtım Videosunun Linki]()
+[Sitemin Tanıtım Videosunun Linki](https://youtu.be/R8NYs2TTlq8)
 
 ### Basitçe içindekiler;
  - **Admin Üye Olma**
