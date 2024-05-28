@@ -62,7 +62,7 @@ CREATE TABLE product(
 
  - Yukarıda verdiğim kodu kopyalayarak **phpmyadmin**'de üst taraftaki SQL sekmesine yapıştırıyoruz.
 
- - Ve database'imizin adı ne olmasını istiyorsak **bim_database**'i onu yazmamız gerekiyor. Ben bim_database olarak bırakıcam. (**Uyarı:** Eğer aynı isimde başka bir database varsa onu silecektir)
+ - Ve database'imizin adı ne olmasını istiyorsak **bim_database**'e onu yazmamız gerekiyor. Ben bim_database olarak bırakıcam. (**Uyarı:** Eğer aynı isimde başka bir database varsa onu silecektir)
 
  - Eğer hata almadıysak phpmyadmin'ile işimiz bitmiştir. Şimdi github'daki dosyaları indiriyoruz. (İçindeki README.md dosyası ve sql klasörü gereksiz isterseniz silebilirsiniz.)
 
