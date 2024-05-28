@@ -66,7 +66,7 @@ CREATE TABLE product(
 
  - Eğer hata almadıysak phpmyadmin'ile işimiz bitmiştir. Şimdi github'daki dosyaları indiriyoruz. (İçindeki README.md dosyası ve sql klasörü gereksiz isterseniz silebilirsiniz.)
 
- - İndirdiğimiz dosayanın içindeki dosyaların hepsini kopyalayarak **C:\xampp\htdocs** klasörüne atıyoruz. (**Uyarı:** Eğer xampp'ın taşınabilir versiyonunu kullanıyorsanız xampp dosyalarının içindeki **htdocs** klasörüne atacaksınız.)
+ - İndirdiğimiz dosyanın içindeki dosyaların hepsini kopyalayarak **C:\xampp\htdocs** klasörüne atıyoruz. (**Uyarı:** Eğer xampp'ın taşınabilir versiyonunu kullanıyorsanız xampp dosyalarının içindeki **htdocs** klasörüne atacaksınız.)
 
  - htdocs'a attıktan sonra **database.php** dosyasına giriyoruz. Ve en üstteki define'ların içindekileri değiştiriyoruz. Sırayla yukardan aşağıya doğru;
    - MYSQL serverının IP'si (genelde localhost olarak kalır)
